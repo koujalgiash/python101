@@ -2,7 +2,10 @@ import pandas as pd
 import csv
 from datetime import datetime
 from data_entry import get_amount, get_category, get_date, get_description
+import matplotlib
 import matplotlib.pyplot as plt
+
+matplotlib.use("TkAgg")  # Use TkAgg backend for interactive plotting
 
 
 class CSV:

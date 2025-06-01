@@ -1,2 +1,4 @@
 # python related files
 __pycache__/
+venv
+venv/
