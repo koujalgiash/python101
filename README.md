@@ -22,5 +22,10 @@ This repository is used to learn design and development on python
     sudo apt install python3-tk
     ```
 
+5. To install all required packages, run -
+    ```
+    pip install -r requirements.txt
+    ```
+
 ## References
 1. personal_finance - [Tech with Tim](https://www.youtube.com/watch?v=Dn1EjhcQk64&t=354s)
