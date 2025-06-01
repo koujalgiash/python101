@@ -170,6 +170,6 @@ def main():
             print("Invalid choice. Enter 1, 2 or 3.")
 
 
-# # if we run this main.py file directly, the if statement below will execute and call the main() function
-# if __name__ == "__main__":
-#     main()
+# if we run this main.py file directly, the if statement below will execute and call the main() function
+if __name__ == "__main__":
+    main()
